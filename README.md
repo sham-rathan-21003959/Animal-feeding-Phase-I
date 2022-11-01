@@ -20,7 +20,7 @@ Adjust the XYZ scale of the food (2,2,2) so you can easily see it from above
 In your Assets folder, create a “Scripts” folder, and a “PlayerController” script inside.Attach the script to the Player by dragging the c# file to the player and open in the inspector and check whether it is attached
 
 ### Flood Flight
-###Step 1: 
+### Step 1: 
 Create a new “MoveForward” script, attach script to the Food Pizza by dragging the c# file to the pizza and open in the inspector and check whether it is attached
 ### Step 2:
 Create a new “Prefabs” folder, drag your food (Pizza) into Prefab folder, and a pop up raises-> choose Original Prefab

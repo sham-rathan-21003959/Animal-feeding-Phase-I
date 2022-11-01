@@ -39,5 +39,8 @@ Edit their speed values and test to see how it looks. Drag all three animals int
 ```
 
 ## Output:
+![car1](https://user-images.githubusercontent.com/93587823/199155887-fc038a25-5e45-4e5e-a61b-e5f07201a2b0.png)
+![car](https://user-images.githubusercontent.com/93587823/199155903-684439ca-7b59-4d48-b908-7e9cfb32aa0f.png)
+
 
 ## Result:
